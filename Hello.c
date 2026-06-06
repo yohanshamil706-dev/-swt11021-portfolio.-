@@ -1,5 +1,5 @@
-#includes<stdio.h>
-int main();{
+#include <stdio.h>
+int main(){
 printf("welcome to SEUSL World!!!!!");
 return 0;
 }
